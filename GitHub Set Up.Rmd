@@ -1,0 +1,36 @@
+---
+title: "GitHub Set Up"
+author: "Taylor Klipfel"
+date: "2024-12-06"
+output: html_document
+---
+
+# Week 1: Predictive Modeling & Processes
+- Gained an understanding of predictive modeling workflows, including defining problem statements and data requirements.
+- Learned the importance of data preprocessing in improving model performance.
+
+# Week 2: Data Exploration
+- Explored techniques like univariate and bivariate analysis to summarize data distributions.
+- Discovered the role of data visualization tools like `ggplot2` in understanding patterns and anomalies.
+
+# Week 3: Linear Regression
+- Learned how to implement simple and multiple linear regression models.
+- Studied assumptions of linear regression, including linearity, homoscedasticity, and normality.
+
+# Week 4: Classification
+- Explored classification algorithms, such as logistic regression and k-nearest neighbors.
+- Learned performance evaluation metrics like accuracy, precision, and recall.
+
+# Week 5: Generalized Linear Models
+- Studied extensions of linear models for non-normal response variables.
+- Implemented logistic regression and Poisson regression using `glm()` in R.
+
+# Week 6: Tree-Based Models
+- Learned how to build and interpret decision trees.
+- Explored ensemble methods like random forests and boosting for improved predictive accuracy.
+
+# Week 7: Unsupervised Methods
+- Applied clustering techniques, including K-Means and hierarchical clustering.
+- Understood dimensionality reduction methods, such as PCA, for high-dimensional datasets.
+
+
